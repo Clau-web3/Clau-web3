@@ -10,7 +10,7 @@
 
 ### 🚀 Mis proyectos favoritos
 
-- 🔗 [Civika – app para votación ciudadana con Web3](https://github.com/clau-web3/civika-dapp)
+- 🔗 [Civika – app para votación ciudadana con Web3](https://github.com/Clau-web3/Civika)
 - 🧠 [Smart Contracts Honduras – prácticas con Solidity](https://github.com/clau-web3/smart-contracts-honduras)
 - 📚 [DeFi Bootcamp Notes](https://github.com/clau-web3/defi-bootcamp)
 
