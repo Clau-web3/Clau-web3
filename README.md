@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Clau-web3</h1>
+<h3 align="center">🧠 Apasionada por el Blockchain, Web3 y la educación descentralizada</h3>
 
-<!--
-**Clau-web3/Clau-web3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduada de cursos y bootcamps en **Blockchain, Web3 y DeFi**
+- ⚙️ Fundadora de un proyecto educativo para **atletas mujeres en Web3**
+- 🌍 Organizo bootcamps y eventos sobre **Ethereum y participación ciudadana**
+- 💡 Actualmente trabajando en **Civika**, una app de votación descentralizada para Honduras
+- 🧾 Me interesa la **gobernanza on-chain**, DAOs y soluciones de identidad digital
+- 🛠️ Mis herramientas: `Solidity`, `Hardhat`, `JavaScript`, `Next.js`, `Ethereum`,`Avalanche`, `Base`, `Git`, `Figma`
 
-Here are some ideas to get you started:
+### 🚀 Mis proyectos favoritos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 [Civika – app para votación ciudadana con Web3](https://github.com/clau-web3/civika-dapp)
+- 🧠 [Smart Contracts Honduras – prácticas con Solidity](https://github.com/clau-web3/smart-contracts-honduras)
+- 📚 [DeFi Bootcamp Notes](https://github.com/clau-web3/defi-bootcamp)
+
+### 📫 Cómo contactarme
+
+- LinkedIn: [claudia-mejia](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+- Email: clau22.cgmr@gmail.com  
+- Telegram: @ClauGMR91
+
+---
+
+### 🌱 Fun Facts
+
+- 🌴 Vivo en Honduras 🇭🇳
+- 👩‍🏫 Me encanta enseñar a otras mujeres sobre Web3
+- ⚽ Fan del fútbol y los proyectos sociales con tecnología
